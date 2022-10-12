@@ -13,3 +13,4 @@ __id - description - business id - priority__
 * __NF3__ - Log administrative actions - BR1 - LOW
 * __NF4__ - When an invoice is paid change the invoices display to reflect payment status  - BR1 - LOW
 * __NF5__ - list all clients currently in the inboarding process - BR1 - MEDIUM
+* __NF6__ - Clients should beable to change their onboarding portal password - BR1 - MEDIUM
