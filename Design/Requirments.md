@@ -5,6 +5,8 @@ __id - description - business id - priority__
  * __FR3__ - Automatically create quickbooks invoice - BR1 - HIGH
  * __FR4__ - Automatically retrieve billing information from client - BR1 - MEDIUM
  * __FR5__ - display where in onboarding process a client is - BR1 - MEDIUM
+ * __FR6__ - customer can input their own information for new provider and initial account - BR1 - HIGH
+ * __FR7__ - functioning frontend for customer to use - BR1 - HIGH
 
 
 # Non-Functional requirements
