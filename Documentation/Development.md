@@ -43,4 +43,5 @@ check your env file for support account creds. other wise check database for use
 │   └── setup.md
 └── test/
     └── models/
-        └── provider_test.rb```
+        └── provider_test.rb
+```
