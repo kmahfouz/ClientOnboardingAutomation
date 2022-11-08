@@ -12,6 +12,7 @@ Gabriel
 ## topics discussed
  * Looked over development documents to double check they are all up to snuff
  * finished integrating tests and adding steps to development page
- * 
+ * Create iteration 1 presentation
 ## Things clarified
- * 
+ * Talk about second iteration features with William in iteration 1 presentation
+ * Finish submissions after meeting with William
