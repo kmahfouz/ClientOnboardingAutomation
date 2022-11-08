@@ -11,3 +11,4 @@ Make sure database is populated and that you have ran db:seed
 No errors are logged, all are just displayed in the command prompt
 # Critical Pieces
 Database can sometimes clear itself with seemingly no reason
+Timezone table that needs to be populated for testing
