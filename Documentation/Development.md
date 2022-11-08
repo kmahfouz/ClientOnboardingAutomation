@@ -1,4 +1,4 @@
-#index
+# index
  * [Setup](#setup-steps)
  * [running tests](#running-tests)
  * [common errors](#common-errors)
