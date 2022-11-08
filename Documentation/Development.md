@@ -1,3 +1,9 @@
+#index
+ * [Setup](#setup-steps)
+ * [running tests](#running-tests)
+ * [common errors](#common-errors)
+ * [structure of changed files/folders](#Onboarding-automation-folder-structure)
+
 # Setup Steps
  * clone the repo `git clone <repo name>`
  * copy `.env` into the repo folder
