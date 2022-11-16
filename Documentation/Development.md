@@ -2,6 +2,7 @@
  * [Setup](#setup-steps)
  * [running tests](#running-tests)
  * [common errors](#common-errors)
+ * [docker setup](#docker-setup)
  * [structure of changed files/folders](#Onboarding-automation-folder-structure)
 
 # Setup Steps
@@ -32,6 +33,11 @@ Make sure you database configuration matches with `config/database.yml`
 ### bad credentials
 check your env file for support account creds. other wise check database for user names and try `password` as the pssword
 
+# docker setup
+
+ * navigate into `docker-posgress-multi-compose-file`
+ * run docker command `docker build --tag=multidb_postgres` to build the docker file into an image named `multidb_postgres`
+ * run `docker-compose up` to start the containers 
 
 # Onboarding automation folder structure
 ```
