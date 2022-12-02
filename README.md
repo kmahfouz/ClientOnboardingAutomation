@@ -24,7 +24,7 @@ William Birdsong
 - [Team meeting minutes](MeetingMinutes/Team)
 - [Mentor meeting minutes](MeetingMinutes/Mentor)
 - [Client partner meeting minutes](MeetingMinutes/ClientPartner)
-- [First iteration features](https://github.com/kmahfouz/ClientOnboardingAutomation/projects?query=is%3Aopen)
+- [Second iteration features](https://github.com/kmahfouz/ClientOnboardingAutomation/projects?query=is%3Aopen)
 
 
 ## **Code Repositories**
