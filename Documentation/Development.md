@@ -7,7 +7,8 @@
 
 # Setup Steps
  * clone the repo `git clone <repo name>`
- * copy `.env` into the repo folder
+ * install rails
+ * copy `.env` into the repo folder (message team member to get env)
  * run `./bin/setup`. deal with any errors you get, see [here](#common-errors) for common errors
  * run `rails dev:prime`
  * run `rails db:seed`
