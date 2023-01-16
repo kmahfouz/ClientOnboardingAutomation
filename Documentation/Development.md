@@ -37,7 +37,7 @@ check your env file for support account creds. other wise check database for use
 # Replicating via Docker
 
  * navigate into `docker-posgress-multi-compose-file`
- * run docker command `docker build --tag=multidb_postgres` to build the docker file into an image named `multidb_postgres`
+ * run docker command `docker build --tag=multidb_postgres .` to build the docker file into an image named `multidb_postgres`
  * run `docker-compose up` to start the containers 
 
 # Onboarding automation folder structure
