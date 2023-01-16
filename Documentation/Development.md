@@ -10,12 +10,13 @@
  * install rails
  * copy `.env` into the repo folder (message team member to get env)
  * run `./bin/setup`. deal with any errors you get, see [here](#common-errors) for common errors
- * run `rails dev:prime`
- * run `rails db:seed`
  * run `yarn install`
  * run server with `rails server`
  * connect to `http://localhost:3000/admin` and login with user `admin@example.com` and password `password` to ensure its runnning
-
+### populating DB
+if running setup doesnt populate the db run this
+ * run `rails dev:prime`
+ * run `rails db:seed`
 # running tests
 tests are run view rails provided testing
  * `rails test` will run all tests
