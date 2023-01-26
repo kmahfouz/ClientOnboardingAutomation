@@ -62,5 +62,5 @@ check your env file for support account creds. other wise check database for use
 
 # Linting
 
-*run 'gem install rubocop'
-*run 'rubocop [directory/file name] [different directory/file (optional)] [different directory/file (optional)]' etc...
+* run 'gem install rubocop'
+* run 'rubocop [directory/file name] [different directory/file (optional)] [different directory/file (optional)]' etc...
