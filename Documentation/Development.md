@@ -59,3 +59,8 @@ check your env file for support account creds. other wise check database for use
     └── models/
         └── provider_test.rb
 ```
+
+# Linting
+
+run 'gem install rubocop'
+run 'rubocop [directory/file name] [different directory/file (optional)] [different directory/file (optional)]' etc...
