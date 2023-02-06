@@ -7,6 +7,7 @@ __id - description - business id - priority__
  * __FR5__ - display where in onboarding process a client is - BR1 - MEDIUM
  * __FR6__ - customer can input their own information for new provider and initial account - BR1 - HIGH
  * __FR7__ - functioning frontend for customer to use - BR1 - HIGH
+ * __FR8__ - implement docusign functionality
 
 
 # Non-Functional requirements
