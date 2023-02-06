@@ -53,8 +53,19 @@ check your env file for support account creds. other wise check database for use
 ├── app/
 │   ├── admin/
 │   │   └── provider.rb
-│   └── models/
-│       └── provider.rb
+│   ├── models/
+│   |    └── provider.rb
+|   ├── controllers
+|       └── onboarding_tokens_invitations_controller.rb
+|
+├── lib/
+│     └── onboarding_automation_helper_functions
+│       ├── automatic_quickbooks
+│       │   ├── CustomerFactory.rb
+│       │   ├── InvoiceFactory.rb
+│       │   ├── QuickBooksAutomaton.rb
+│       │   └── TokenHandler.rb
+│       └── providers_functions.rb
 ├── docker-postgres-multi-compose-file/
 │   ├── docker-compose.yml
 │   ├── create-multiple-postgresql-databases.sh
@@ -62,8 +73,20 @@ check your env file for support account creds. other wise check database for use
 │   ├── LICENSE
 │   └── setup.md
 └── test/
-    └── models/
-        └── provider_test.rb
+    ├── helpers
+    ├── integration
+    │   └── onboarding_tokens_test.rb
+    ├── lib
+    │   └── automatic-quickbooks
+    │       ├── customer_factory_test.rb
+    │       ├── invoice_factory_test.rb
+    │       └── token_handler_test.rb
+    ├── mailers
+    ├── models
+    │   └── onboardin_tokens_test.rb
+    ├── system
+    └── test_helper.rb
+
 ```
 
 # Linting
