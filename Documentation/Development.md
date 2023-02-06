@@ -23,6 +23,12 @@ tests are run view rails provided testing
  * `rails test <path to specific test file>` will run a specific file
  * visit rails testing documentation for more, [link here](https://guides.rubyonrails.org/testing.html)
 
+# Quickbooks
+For Quickbooks functionality the developer needs to make an Intuit developer account,[link here](https://developer.intuit.com/app/developer/homepage)
+* When accepting the authorization code you will be given a Realm ID
+* Add the field "INTUIT_REALM_ID" to env file and past the Realm ID
+* You will also need to generate and add a refresh token to the database 'intuit_accounts' column
+
 # common errors
 ### Yarn not found
 install yarn with `npm install yarn --global`, might have to do this with sudo
