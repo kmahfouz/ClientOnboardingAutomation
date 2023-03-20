@@ -12,3 +12,7 @@ No errors are logged, all are just displayed in the command prompt
 # Critical Pieces
 Database can sometimes clear itself with seemingly no reason
 Timezone table that needs to be populated for testing
+# API keys
+fetch refresh token from intuit and insert it into the intuitaccount object <br>
+fetch a api key from docusign and insert it into the docusignaccount object <br>
+for each table (docusign_accounts, intuit_accounts) should only have 1 object <br>
