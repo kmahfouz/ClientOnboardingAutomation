@@ -15,3 +15,4 @@ My time at the symposium went all right, I was there from 12-2 and only presente
 ## Karim Mahfouz
 
 ## Michael Knudsen
+The symposium went fast for me. I operated the stand from 3 until 4. I didnt have the pleasure of presenting or talking about our project to anyone as the judges had already made their rounds by then and most people were already gone.
