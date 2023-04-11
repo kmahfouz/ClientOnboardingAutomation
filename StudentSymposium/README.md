@@ -5,9 +5,9 @@
 ![alt text](https://media.discordapp.net/attachments/1037512187176030219/1095413970870997042/IMG_6634.jpg?width=823&height=617)
 3. Bradley Vaas
 ![alt text](https://media.discordapp.net/attachments/1037512187176030219/1095417399156674590/IMG_1342.jpg?width=823&height=617)
-4. Loc Tran
+4. Loc, Kevin, Thomas
 ![alt text](https://media.discordapp.net/attachments/1037512187176030219/1095413700812353629/IMG_1341.jpg?width=823&height=617)
-5. 
+5. Melissa
 ![alt text](https://media.discordapp.net/attachments/1037512187176030219/1095413701189832764/IMG_1340.jpg?width=823&height=617)
 # Student Experiences
 ## Gabriel Chandler
