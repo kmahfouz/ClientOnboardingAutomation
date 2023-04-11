@@ -11,7 +11,7 @@
 ![alt text](https://media.discordapp.net/attachments/1037512187176030219/1095413701189832764/IMG_1340.jpg?width=823&height=617)
 # Student Experiences
 ## Gabriel Chandler
-My time at the symposium went all right, I was there from 12-2 and only presented to 4 people. It seemed like most people were there to look at specific posters, so I didn't get a lot of chances to talk to people walking by since they didn't show much interst.
+My time at the symposium went all right, I was there from 12-2 and only presented to 4 people. It seemed like most people were there to look at specific posters, so I didn't get a lot of chances to talk to people walking by since they didn't show much interest. The three judges I presented to seemed interested and didn't offer any criticism about the subject and that it was quite cool to see the effect our project had on the client's work process.
 ## Karim Mahfouz
 
 ## Michael Knudsen
