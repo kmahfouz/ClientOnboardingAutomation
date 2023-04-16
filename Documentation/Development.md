@@ -23,7 +23,7 @@ tests are run view rails provided testing
  * `rails test <path to specific test file>` will run a specific file
  * visit rails testing documentation for more, [link here](https://guides.rubyonrails.org/testing.html)
  * to run coverage report, run rspec and it will generate the report as a file named index.html in the coverage folder
- * to run UI tests specifically run rails test test/features
+ * to run UI tests specifically run rails test test_ui/features
 
 # Quickbooks
 For Quickbooks functionality the developer needs to make an Intuit developer account,[link here](https://developer.intuit.com/app/developer/homepage)
